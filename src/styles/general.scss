@@ -11,6 +11,7 @@ img{
 .container{
     max-width: 1170px;
     margin: 0 auto;
+    
 }
 
 .flex{
@@ -32,4 +33,28 @@ ul{
 
 .align-center{
     align-items: center;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.ml{
+    margin-left: 30px;
+}
+
+span{
+    font-size: 12px;
+    color: white;
+}
+
+h5{
+    color: white;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+p{
+    color: lightgrey;
+    margin-top: 5px;
 }
