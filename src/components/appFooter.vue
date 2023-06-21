@@ -34,10 +34,10 @@ export default {
         color: white;
         background-color: transparent;
     }
-
     h4{
         color: blue;
     }
+
     
 
 </style>

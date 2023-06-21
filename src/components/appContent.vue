@@ -102,11 +102,11 @@ export default {
 
     </main>
 
-
-
-
-
 </template>
+
+
+
+
 <style lang="scss">
     .position-relative{
         position: relative;
